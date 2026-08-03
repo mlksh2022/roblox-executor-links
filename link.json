@@ -1,0 +1,10 @@
+{
+  "Solara-V3": {
+    "version": "0.1.0",
+    "download": "https://getsolara.dev/download/static/files/SolaraV3.exe"
+  },
+  "Legacy-Solara-V3": {
+    "version": "0.1.0",
+    "download": "https://getsolara.dev/download/static/files/Solara.Dir.zip"
+  }
+}
